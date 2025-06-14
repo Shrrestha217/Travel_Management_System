@@ -20,7 +20,7 @@ Welcome to the **Travel and Tourism Management System**, a desktop-based Java ap
 
 - 👨‍💻 **Programming Language**: Java (Core Java, Swing, AWT)  
 - 🗃️ **Database**: MySQL  
-- 🧑‍💻 **IDE**: NetBeans (you can also use IntelliJ or Eclipse)  
+- 🧑‍💻 **IDE**: IntelliJ Idea
 - 🖼️ **UI**: Custom icons and images  
 
 ---
